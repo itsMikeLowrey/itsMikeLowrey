@@ -1,11 +1,11 @@
 <h1 align="left">My name is Donely, and I am a Mission-Driven Engineer 👨‍🔧</h1>
 
 <p>
-  I currently work at <a href="https://www.resilientstrategiesllc.com/">Resilient Strategies LLC</a> as a Movement Technology Engineer, supporting 60+ NGOs with software-based products and solutions.
+  I currently work at <a href="https://www.resilientstrategiesllc.com/">Resilient Strategies LLC</a> as a Movement Technology Engineer 👨‍💻, supporting 60+ NGOs with software-based products and solutions.
 </p>
 
 <p>
-  I also created and run the world's most private e-commerce experience, <a href="https://anonshop.app/">AnonShop</a>.
+  I also created and run the world's most private e-commerce experience, <a href="https://anonshop.app/">AnonShop</a> 🕵🏿.
 </p>
 
 <p>
