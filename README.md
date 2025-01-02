@@ -1,6 +1,6 @@
 <h1 align="left">My name is Donely, and I am a Mission-Driven Engineer 👨‍🔧</h1>
 
-<p>
+<p style="font-size: 1.875em;">
   I currently work at <a href="https://www.resilientstrategiesllc.com/">Resilient Strategies LLC</a> as a Movement Technology Engineer 👨‍💻, supporting 60+ NGOs with software-based products and solutions.
 </p>
 
